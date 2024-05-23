@@ -1,7 +1,4 @@
 # Hi, I'm Basma!
-
-
-## 🚀 About Me
 I'm a full stack developer eager to contribute to exciting projects and learn from experienced professionals in the industry. 
 
 
